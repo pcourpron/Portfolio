@@ -108,7 +108,7 @@ img::-moz-selection {
 #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
   color: #1C3144;
 }
-[href="assets/CV.psd"]{margin:10px 0 20px !important}
+
 #mainNav .navbar-nav > li.nav-item > a.nav-link,
 #mainNav .navbar-nav > li.nav-item > a.nav-link:focus {
   font-size: .9rem;
@@ -279,6 +279,7 @@ header.masthead p {
 }
 
 @media (min-width: 768px) {
+[href="assets/CV.psd"]{margin:10px 0 20px !important}
   .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category {
     font-size: 16px;
   }
