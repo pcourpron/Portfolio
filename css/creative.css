@@ -279,7 +279,7 @@ header.masthead p {
 }
 
 @media (min-width: 768px) {
-[href="assets/CV.psd"]{margin:10px 0 20px !important}
+
   .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category {
     font-size: 16px;
   }
@@ -321,4 +321,7 @@ header.masthead p {
 
 .work-heading {
   margin: 10px 0
+}
+@media screen and (max-width:768px){
+  [href="assets/CV.psd"]{margin:10px 0 20px !important}
 }
